@@ -404,11 +404,11 @@ local function showScriptsSection()
     
     -- Crear opciones de scripts
     createOption("Aimbot", "Aimbot automático | Disparo a murder", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/The%20Sheriff's%20Style.luau", "aimbot")
-    createOption("Noclip", "Noclip | Transpasar paredes", "https://github.com/KaitoNekox/Murder-mistery-2-/raw/refs/heads/main/Noclip.luau", "noclip")
-    createOption("Locate", "Localizar murder y sheriff", "https://github.com/KaitoNekox/Murder-mistery-2-/raw/refs/heads/main/Location.luau", "locate")
-    createOption("KillAll", "Matar a todos (Murder)", "https://github.com/KaitoNekox/Murder-mistery-2-/raw/refs/heads/main/Kill%20all%20users.luau", "killAll")
+    createOption("Noclip", "Noclip | Transpasar paredes", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/Noclip.luau", "noclip")
+    createOption("Locate", "Localizar murder y sheriff", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/Location.luau", "locate")
+    createOption("KillAll", "Matar a todos (Murder)", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/Kill%20all%20users.luau", "killAll")
     createOption("GrabGun", "Agarrar el arma", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/Grab%20the%20gun.luau", "grabGun")
-    createOption("Autofarm", "Autofarm coins", "https://github.com/KaitoNekox/Murder-mistery-2-/raw/refs/heads/main/Autofarming%20coins.luau", "autofarm")
+    createOption("Autofarm", "Autofarm coins", "https://raw.githubusercontent.com/KaitoNekox/Murder-mistery-2-/refs/heads/main/Autofarming%20coins.luau", "autofarm")
 end
 
 -- Función para mostrar la sección de soporte
